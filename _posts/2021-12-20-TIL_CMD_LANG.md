@@ -3,7 +3,7 @@ title:  "Change Language of Command Prompt in Windows"
 excerpt: "Wanted to change English Command Line interface to Korean due to the unreadable characters"
 
 categories:
-  - TIL, CMD
+  - [TIL, CMD]
 tags:
   - [TIL, CMD, Language]
 
@@ -14,14 +14,11 @@ date: 2021-12-20
 last_modified_at: 2021-12-20
 ---
 ## DESCRIPTION
-- - -
-
 Wanted to change English Command Line interface to Korean due to the unreadable characters as below.
 
 ![cmd1korean](/img/cmd1.jpg)
 
 ## RESOLUTION
-- - - 
 1. Checked the current active code first using 'CHCP' command which is used to supplement the the international keyboard & character set information
 
 ![cmd1korean](/img/cmd2.jpg)
@@ -37,7 +34,6 @@ Wanted to change English Command Line interface to Korean due to the unreadable 
 ![cmd1korean](/img/cmd5.jpg)
 
 ## REFERENCE
-- - -
 * https://m-falcon.tistory.com/363
 * https://rachel921.tistory.com/17
 * https://stackoverflow.com/questions/57131654/using-utf-8-encoding-chcp-65001-in-command-prompt-windows-powershell-window
