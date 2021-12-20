@@ -35,3 +35,10 @@ Wanted to change English Command Line interface to Korean due to the unreadable 
 ![cmd1korean](/img/cmd4.jpg)
 
 ![cmd1korean](/img/cmd5.jpg)
+
+## REFERENCE
+- - -
+* https://m-falcon.tistory.com/363
+* https://rachel921.tistory.com/17
+* https://stackoverflow.com/questions/57131654/using-utf-8-encoding-chcp-65001-in-command-prompt-windows-powershell-window
+* https://stackoverflow.com/questions/7432545/change-codepage-in-cmd-permanently
