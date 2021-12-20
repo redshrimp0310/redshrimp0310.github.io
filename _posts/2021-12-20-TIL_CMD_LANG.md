@@ -28,7 +28,7 @@ Wanted to change English Command Line interface to Korean due to the unreadable 
 
 ![cmd1korean](/img/cmd3.jpg)
 
-3. In order for change to be made permanently, Go to Go to [HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor] in regedit and add new String Value named 'Autorun' with 'chcp 949 value'
+3. In order for the change to be made permanently, Go to Go to [HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor] in regedit and add new String Value named 'Autorun' with 'chcp 949 value'.
 
 ![cmd1korean](/img/cmd4.jpg)
 
