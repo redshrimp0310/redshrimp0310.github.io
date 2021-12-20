@@ -20,15 +20,15 @@ Wanted to change English Command Line interface to Korean due to the unreadable 
 ![cmd1korean](/img/cmd1.jpg)
 
 ## RESOLUTION
-1. Checked the current active code first using 'CHCP' command which is used to supplement the the international keyboard & character set information.
+* Checked the current active code first using 'CHCP' command which is used to supplement the the international keyboard & character set information.
 
 ![cmd1korean](/img/cmd2.jpg)
 
-2. Changed to Active code page 949(Korean). However, this is a temporary solution. It goes back to the default active code setting once CMD has been closed.
+* Changed to Active code page 949(Korean). However, this is a temporary solution. It goes back to the default active code setting once CMD has been closed.
 
 ![cmd1korean](/img/cmd3.jpg)
 
-3. In order for the change to be made permanently, Go to [HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor] in regedit and add new String Value named 'Autorun' with 'chcp 949 value'.
+* In order for the change to be made permanently, Go to [HKEY_LOCAL_MACHINE\Software\Microsoft\Command Processor] in regedit and add new String Value named 'Autorun' with 'chcp 949 value'.
 
 ![cmd1korean](/img/cmd4.jpg)
 
