@@ -3,7 +3,7 @@ title:  "Change Language of Command Prompt in Windows"
 excerpt: "Wanted to change English Command Line interface to Korean due to the unreadable characters"
 
 categories:
-  - [TIL], [CMD]
+  - TIL
 tags:
   - [TIL, CMD, Language]
 
