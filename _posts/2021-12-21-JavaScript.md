@@ -69,11 +69,7 @@ It returns true if non-zero. Otherwise, returns false.
 when Object is empty, '!!' operator returns true. On the other hands, when String is empty, it returns false.
 
 ![JS](/img/JavaScript/2021-12-21-JS1-12.jpg)
-
-
-
-
-
+- - -
 ### REFERENCE 
 * 송형주,고현준 Inside JavaScipt 한빛미디어(2017)
 * https://www.w3resource.com/javascript/variables-literals/literals.php
