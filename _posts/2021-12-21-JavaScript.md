@@ -13,8 +13,7 @@ toc_sticky: true
 date: 2021-12-21
 last_modified_at: 2021-12-21
 ---
-Array in JavaScript
--------------------
+### Array in JavaScript
 
 * Arrays are list-like objects and can store multiple data types. An array literal is a list of array elements, enclosed in a pair of square brackets '[]'.
 
