@@ -58,11 +58,10 @@ last_modified_at: 2021-12-21
 
 ![JS](/img/JavaScript/2021-12-21-JS1-11.jpg)
 - - -
-* 'typeof' operator</br>
-null & array : object</br>
-function : function
+* typeof operator
+null & array : object, function : function
 - - -
-* '!!' operator</br>
+* !! operator
 It returns true if non-zero. Otherwise, returns false.
 
 when Object is empty, '!!' operator returns true. On the other hands, when String is empty, it returns false.
