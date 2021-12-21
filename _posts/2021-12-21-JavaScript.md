@@ -1,6 +1,6 @@
 ---
-title:  "Array in JavaScript"
-excerpt: "Basics of array in JavaScript"
+title:  "Array and Operator in JavaScript"
+excerpt: "Basics of array and operator in JavaScript"
 
 categories:
   - JavaScript
@@ -13,8 +13,7 @@ toc_sticky: true
 date: 2021-12-21
 last_modified_at: 2021-12-21
 ---
-### Array in JavaScript
-
+### ARRAY
 * Arrays are list-like objects and can store multiple data types. An array literal is a list of array elements, enclosed in a pair of square brackets '[]'.
 
 ![JS](/img/JavaScript/2021-12-21-JS1-1.jpg)
@@ -54,6 +53,7 @@ last_modified_at: 2021-12-21
 
 ![JS](/img/JavaScript/2021-12-21-JS1-10.jpg)
 - - -
+### OPERATOR
 * '+' operator
 
 ![JS](/img/JavaScript/2021-12-21-JS1-11.jpg)
