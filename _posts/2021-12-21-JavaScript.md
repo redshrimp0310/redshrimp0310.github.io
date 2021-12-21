@@ -5,7 +5,7 @@ excerpt: "Basics of array and operator in JavaScript"
 categories:
   - JavaScript
 tags:
-  - [TIL, Array, JavaScript]
+  - [TIL, Array, Operator, JavaScript]
 
 toc: true
 toc_sticky: true
