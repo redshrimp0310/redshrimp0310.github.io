@@ -20,8 +20,8 @@ Function is a block of code designed to perform a certain task and anonymous fun
 
 **Function Statement**
 
-Function literal is used. </br>
-Function name MUST be declared. </br>
+Function literal is used.</br>
+Function name MUST be declared.</br>
 Semicolons after function declarations are not necessary.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-1.jpg)
