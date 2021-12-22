@@ -45,7 +45,7 @@ The below function is internally amended by JavaScript Engine.
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-4.jpg)
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-5.jpg)
 
-The function name can be called as below.
+The function name can be also called as below.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-6.jpg)
 
