@@ -18,7 +18,7 @@ Function is a block of code designed to perform a certain task and anonymous fun
 
 ### Three different ways of creating a function.
 
-**Function Statement**
+#### Function Statement
 
 Function literal is used.  
 Function name MUST be declared.  
@@ -26,7 +26,7 @@ Semicolons after function declarations are not necessary.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-1.jpg)
 
-**Fucntion Expression**
+#### Fucntion Expression
 
 Function literal is used.   
 Function name is optional.   
@@ -49,7 +49,7 @@ The function name can be also called as below.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-6.jpg)
 
-**Function() Constructor**
+#### Function() Constructor
 
 Function statement and function expression is the process of the simplified procedure of creating function by using of Function() constructor.
 
