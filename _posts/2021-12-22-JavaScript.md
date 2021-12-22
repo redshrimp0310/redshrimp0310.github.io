@@ -5,7 +5,7 @@ excerpt: "Basics of function in JavaScript"
 categories:
   - JavaScript
 tags:
-  - [TIL, FUNCTION, JavaScript]
+  - [TIL, function, JavaScript]
 
 toc: true
 toc_sticky: true
