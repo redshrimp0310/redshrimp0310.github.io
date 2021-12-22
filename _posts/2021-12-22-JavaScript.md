@@ -117,7 +117,7 @@ This is a feature where an inner function has an access to the outer function's 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-18.jpg)
 
 
-### REFERENCE 
+## REFERENCE 
 * 송형주,고현준 Inside JavaScipt 한빛미디어(2017)
 * https://www.w3schools.com/js/js_functions.asp
 * https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
