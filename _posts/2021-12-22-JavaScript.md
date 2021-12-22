@@ -29,7 +29,7 @@ Semicolons after function declarations are not necessary.
 
 Function literal is used.
 Function name is optional.
-Semicolons after function declarations are not necessary.
+Semicolons after function declarations are required.
 The funciton is stored into a variable.
 This variable is reference variable.
 
@@ -97,7 +97,7 @@ Length property
 
 * Callback Function
 
-Callback function is a function passed as an argument into another function
+Callback function is a function passed as an argument into another function.
 
 * Immediate Function
 
