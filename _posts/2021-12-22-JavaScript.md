@@ -23,7 +23,7 @@ Function is a block of code designed to perform a certain task and anonymous fun
 Function literal is used.
 Function name MUST be declared. 
 Semicolons after function declarations are not necessary.
-![JS](/img/JavaScript/js2/2021-12-22-JS2-1.jpg)
+![JS](/img/JavaScript/JS2/2021-12-22-JS2-1.jpg)
 
 2. Fucntion Expression
 
