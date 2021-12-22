@@ -88,7 +88,7 @@ It can lead to the unexpected errors and is not normally recommended.
 
 *Property can be created and assigned dynamically.*
 
-### There are additional standard properties defined into a function object such as arguments, caller, lengh, etc.
+### Additional standard properties defined into a function object such as arguments, caller, lengh, etc.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-14.jpg)
 
