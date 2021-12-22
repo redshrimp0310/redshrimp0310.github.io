@@ -20,19 +20,19 @@ Function is a block of code designed to perform a certain task and anonymous fun
 
 **Function Statement**
 
-Function literal is used.</br>
-Function name MUST be declared.</br>
+Function literal is used.  
+Function name MUST be declared.  
 Semicolons after function declarations are not necessary.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-1.jpg)
 
 **Fucntion Expression**
 
-Function literal is used. </br>
-Function name is optional. </br>
-Semicolons after function declarations are required. </br>
-The funciton is stored into a variable. </br>
-This variable is reference variable. </br>
+Function literal is used.   
+Function name is optional.   
+Semicolons after function declarations are required.   
+The funciton is stored into a variable.   
+This variable is reference variable.     
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-2.jpg)
 
