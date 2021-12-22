@@ -73,20 +73,20 @@ It can lead to the unexpected errors and is not normally recommended.
 
 * Function in JavaScript is called first class object due to the following reasons:
 
-  * Can be created by literal.  
-  * Can be assigned to variable, element of array, and property of object.  
+  1.Can be created by literal.  
+  2.Can be assigned to variable, element of array, and property of object.  
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-11.jpg)
 
-  * Can be used as an argument of function.
+  3.Can be used as an argument of function.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-12.jpg)
 
-  * Can be used as a return value of function.
+  4.Can be used as a return value of function.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-13.jpg)
 
-  * Property can be created and assigned dynamically.
+  5.Property can be created and assigned dynamically.
 
 * There are additional standard properties defined into a function object such as arguments, caller, lengh, etc.
 
