@@ -13,10 +13,10 @@ toc_sticky: true
 date: 2021-12-22
 last_modified_at: 2021-12-22
 ---
-### FUNCTION
+## FUNCTION
 Function is a block of code designed to perform a certain task and anonymous function is a function that does not have any name associated with it. When creating a function, we don't declare value types.
 
-#### Three different ways of creating a function in JavaScript.
+### Three different ways of creating a function.
 
 **Function Statement**
 
@@ -56,7 +56,7 @@ Function statement and function expression is the process of the simplified proc
 Syntax :
 new Function(arg1, ... , argN, functionBody)
 
-* Function Hoisting
+### Function Hoisting
 
 Hoisting can allow functions to be used before they are declared in the code.
 
@@ -66,12 +66,12 @@ It can lead to the unexpected errors and is not normally recommended.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-8.jpg)
 
-* Function is also an ojbect. It can have properties.
+### Function is also an ojbect. It can have properties.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-9.jpg)
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-10.jpg)
 
-* Function in JavaScript is called first class object due to the following reasons:
+### Function in JavaScript is called first class object due to the following reasons:
 
 *Can be created by literal.*  
 *Can be assigned to variable, element of array, and property of object.*    
@@ -88,7 +88,7 @@ It can lead to the unexpected errors and is not normally recommended.
 
 *Property can be created and assigned dynamically.*
 
-* There are additional standard properties defined into a function object such as arguments, caller, lengh, etc.
+### There are additional standard properties defined into a function object such as arguments, caller, lengh, etc.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-14.jpg)
 
@@ -96,21 +96,21 @@ Length property
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-15.jpg)
 
-* Callback Function
+### Callback Function
 
 Callback function is a function passed as an argument into another function.
 
-* Immediate Function
+### Immediate Function
 
 Immediate function is a function that enables you to execute a function as soon as defined.
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-16.jpg)
 
-* Inner Function
+### Inner Function
 
 ![JS](/img/JavaScript/JS2/2021-12-22-JS2-17.jpg)
 
-* Closure
+### Closure
 
 This is a feature where an inner function has an access to the outer function's variables.
 
