@@ -16,9 +16,9 @@ last_modified_at: 2021-12-22
 ## FUNCTION
 Function is a block of code designed to perform a certain task and anonymous function is a function that does not have any name associated with it. When creating a function, we don't declare value types.
 
-#### Three different ways of creating a function.
+### Three different ways of creating a function.
 
-###### Function Statement
+#### Function Statement
 
 Function literal is used.  
 Function name MUST be declared.  
