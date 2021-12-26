@@ -13,7 +13,7 @@ toc_sticky: true
 date: 2021-12-21
 last_modified_at: 2021-12-21
 ---
-### ARRAY
+## ARRAY
 * Arrays are list-like objects and can store multiple data types. An array literal is a list of array elements, enclosed in a pair of square brackets '[]'.
 
 ![JS](/img/JavaScript/js1/2021-12-21-JS1-1.jpg)
@@ -53,7 +53,7 @@ last_modified_at: 2021-12-21
 
 ![JS](/img/JavaScript/js1/2021-12-21-JS1-10.jpg)
 
-### OPERATOR
+## OPERATOR
 * '+' operator
 
 ![JS](/img/JavaScript/js1/2021-12-21-JS1-11.jpg)
@@ -68,7 +68,7 @@ when Object is empty, '!!' operator returns true. On the other hands, when Strin
 
 ![JS](/img/JavaScript/js1/2021-12-21-JS1-12.jpg)
 
-### REFERENCE 
+## REFERENCE 
 * 송형주,고현준 Inside JavaScipt 한빛미디어(2017)
 * https://www.w3resource.com/javascript/variables-literals/literals.php
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array

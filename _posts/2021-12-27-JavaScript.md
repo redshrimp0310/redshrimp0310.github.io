@@ -29,3 +29,13 @@ Unlike C language, an error does not occur in JavaScript when passing more or le
 When a function is called, Arguments Object is an array-like object passed into the function to represent the list of arguments that are passed in. 
 
 ![JS](/img/JavaScript/JS3/2021-12-27-JS3-3.jpg)
+
+
+
+
+
+
+
+
+## REFERENCE 
+* 송형주,고현준 Inside JavaScipt 한빛미디어(2017)
