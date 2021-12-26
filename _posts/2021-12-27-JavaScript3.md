@@ -26,9 +26,17 @@ Unlike C language, an error does not occur in JavaScript when passing more or le
 
 ![JS](/img/JavaScript/JS3/2021-12-27-JS3-2.jpg)
 
-When a function is called, Arguments Object is an array-like object passed into the function to represent the list of arguments that are passed in. 
+Arguments Object is an array-like object passed into the function to represent the list of arguments that are passed in when a function is called.
 
 ![JS](/img/JavaScript/JS3/2021-12-27-JS3-3.jpg)
+
+Arguments Object is beneficial when we create a function with an unknown number of arguments. 
+
+![JS](/img/JavaScript/JS3/2021-12-27-JS3-4.jpg)
+
+### Calling patern & This binding
+
+
 
 
 
