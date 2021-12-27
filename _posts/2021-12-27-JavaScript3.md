@@ -85,7 +85,6 @@ rule 2) a constructor function returns an created object when return value is no
 ![JS](/img/JavaScript/JS3/2021-12-27-JS3-16.jpg)
 
 ![JS](/img/JavaScript/JS3/2021-12-27-JS3-16.jpg)
-
 - - -
 ## REFERENCE 
 * 송형주,고현준 Inside JavaScipt 한빛미디어(2017)
