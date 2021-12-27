@@ -1,6 +1,6 @@
 ---
-title:  "Function in JavaScript"
-excerpt: "Basics of function in JavaScript"
+title:  "Function(2) in JavaScript"
+excerpt: "Basics(2) of function in JavaScript"
 
 categories:
   - JavaScript
