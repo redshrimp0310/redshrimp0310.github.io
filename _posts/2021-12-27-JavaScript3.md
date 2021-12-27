@@ -74,17 +74,18 @@ When a constructor function is invoked without 'new' or a normal function is cal
 
 Naming convention that the first letter of function name is capitalized is strongly recommended for a constructor function.
 
+### Function in JavaScript always returns value.
 
+rule 1) a function or method returns 'undefined' when return value is not defined.
 
+![JS](/img/JavaScript/JS3/2021-12-27-JS3-15.jpg)
 
+rule 2) a constructor function returns an created object when return value is not defined.
 
+![JS](/img/JavaScript/JS3/2021-12-27-JS3-16.jpg)
 
+![JS](/img/JavaScript/JS3/2021-12-27-JS3-16.jpg)
 
-
-
-
-
-
-
+- - -
 ## REFERENCE 
 * 송형주,고현준 Inside JavaScipt 한빛미디어(2017)
